@@ -1,7 +1,7 @@
 package p1;
 
 public class A {
-	int x=10;
+	int x=20;
 
 	public static void main(String[] args) {
 		A a1 = new A() ;
